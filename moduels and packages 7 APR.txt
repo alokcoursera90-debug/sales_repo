@@ -1,0 +1,69 @@
+##################Techbique-1####################
+import modulename                    
+import modulename as mn
+
+modulename.var
+modulename.function
+
+##################Techbique-2####################
+from modulename import var,function1,function2
+
+var
+function()
+
+##################Techbique-3########################
+from modulename import *  [not recommnded]
+
+#####################################################
+
+
+inbuilt module:
+
+install : 
+
+pip install modulename/packagename==ver
+
+pip install modulename/package [latest]
+
+uninstall:
+
+
+pip uninstall modulename/packagename
+
+
+list of modules and packages :
+
+pip list
+
+======================================================
+Package:
+
+it is collection of modules
+
+os -- folder/dir --> collection of all files pdf,xlsx,csv,image
+
+package : only python files --> __init__.py
+
+
+package :
+
+modules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
