@@ -53,7 +53,13 @@ modules
 
 
 
+          Lakehouse
+     (The entire building)
 
+             │
+
+     Medallion Architecture
+(Bronze → Silver → Gold rooms)
 
 
 
